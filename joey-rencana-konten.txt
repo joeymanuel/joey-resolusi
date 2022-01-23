@@ -3,9 +3,11 @@ Rencana Konten Joey
 - Rencana 1
  * Detail 1
  * Detail 2
-  ^ B More 1
-  ^ B More 2
+  ^ More 1
+  ^ More 2
+- Rencana 2
 - Rencana 3
- ^ B More 1
+  ^ More 1
 - Rencana 4
 - Rencana 5
+- Rencana 6
