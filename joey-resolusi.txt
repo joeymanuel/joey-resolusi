@@ -2,5 +2,5 @@ Resolusi
 - Resolusi 1
 - Resolusi 2
 - Resolusi 3
-- Resolusi 4
 - Resolusi 5
+- Resolusi 6
