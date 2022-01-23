@@ -4,6 +4,7 @@ Rencana Konten Joey
  * Detail 1
  * Detail 2
   ^ More 1
+  ^ More 2
 - Rencana 2
 - Rencana 3
   ^ More 1
